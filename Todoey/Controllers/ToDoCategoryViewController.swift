@@ -65,6 +65,7 @@ class ToDoCategoryViewController: UIViewController {
             guard let cell = cell as? DoCategoryTableViewCell else { return }
             
             switch tableView.isEditing {
+                
             case true:
                 editButton.title = "Done"
                 cell.title.isEnabled = true
