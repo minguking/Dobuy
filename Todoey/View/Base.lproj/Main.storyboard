@@ -400,7 +400,7 @@
         <image name="checkmark.shield" catalog="system" width="128" height="121"/>
         <image name="gift" catalog="system" width="128" height="121"/>
         <namedColor name="customTextColor">
-            <color red="0.13192085921764374" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.13199999928474426" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
     </resources>
 </document>

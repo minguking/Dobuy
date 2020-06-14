@@ -19,9 +19,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         UITabBar.appearance().tintColor = .systemRed
 //        UITabBar.appearance().backgroundColor = .black
-//        UITabBar.appearance().barTintColor = .darkGray
+//        UITabBar.appearance().barTintColor = .lightGray
         
-        print(Realm.Configuration.defaultConfiguration.fileURL)
+//        print(Realm.Configuration.defaultConfiguration.fileURL)
 
 //        do {
 //            let realm = try Realm()
