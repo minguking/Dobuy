@@ -14,7 +14,7 @@ class ToDoCategoryViewController: UIViewController {
     
     var i = 0
     var k = 0
-    
+     
     let realm = try! Realm()
     
     var categories: Results<Category>?
